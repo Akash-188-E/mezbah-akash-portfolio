@@ -1,0 +1,8 @@
+{
+  "name": "Remix Mezbah Akash Portfolio",
+  "description": "Personal portfolio website for Mezbah Akash, CSE Student \u0026 Aspiring Software Developer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
